@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Frameworks, new technological advances and experiences and programming education.**
 
-/*- 📝 I regularly write articles on [https://ventine.hashnode.dev](https://ventine.hashnode.dev)*/
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/stiven_1515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stiven_1515" height="30" width="40" /></a>
