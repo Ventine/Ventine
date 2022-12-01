@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Frameworks, new technological advances and experiences and programming education.**
 
-- 📝 I regularly write articles on [https://ventine.hashnode.dev](https://ventine.hashnode.dev)
+/*- 📝 I regularly write articles on [https://ventine.hashnode.dev](https://ventine.hashnode.dev)*/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
