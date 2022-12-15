@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ventine</h1>
 <h3 align="center">A lover of living and learning from Colombia</h3>
 
-- 🔭 I’m currently working on **Frameworks, new technological advances and experiences and programming education.**
+- 🔭 I’m currently working on **Frameworks, new technological advances and experiences and programming education.** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
