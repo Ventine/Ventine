@@ -4,14 +4,14 @@ Bienvenidos al perfil de Jhon Torres !!!
 
 Soy un desarrollador Full Stack
 
-- 👨‍💻 Actualemente trabajo como desarrollador web usando PHP y/o Spring Boot.
+- 👨‍💻 Actualmente trabajo como desarrollador web usando PHP y/o Spring Boot.
 - 📚 Me gusta aprender sobre Frontend y Backend.
 - 💪🏼 Me gustar leer sobre cualquier tema, me gusta el conocimiento.
 
 ---
 
 
-Encuentrame en: 
+Encuéntrame en: 
 
 <a href="https://www.linkedin.com/in/jhonstiventorresvargas/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
