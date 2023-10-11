@@ -1,12 +1,17 @@
-Hola, bienvenidos al perfil de Jhon Torres
+Bienvenidos al perfil de Jhon Torres !!!
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
+---
 
 Soy un desarrollador Full Stack
 
 - 👨‍💻 Actualemente trabajo como desarrollador web usando PHP y/o Spring Boot.
 - 📚 Me gusta aprender sobre Frontend y Backend.
 - 💪🏼 Me gustar leer sobre cualquier tema, me gusta el conocimiento.
+
+---
+
 
 Encuentrame en: 
 
@@ -26,6 +31,8 @@ Tecnologías que uso:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+---
 
 Tecnologías que he trabajado/Estudiado:
 
