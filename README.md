@@ -10,8 +10,8 @@ Soy un desarrollador Full Stack
 
 Encuentrame en: 
 
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/jhonstiventorresvargas/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  JhonTorres.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
 ---
@@ -40,3 +40,4 @@ Tecnologías que he trabajado/Estudiado:
 <br/>
 
 ---
+
