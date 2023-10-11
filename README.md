@@ -4,9 +4,9 @@ Bienvenidos al perfil de Jhon Torres !!!
 
 Soy un desarrollador Full Stack
 
-- 👨‍💻 Actualmente trabajo como desarrollador web usando PHP y/o Spring Boot.
+- 👨‍💻 Actualmente trabajo como desarrollador web usando PHP y Spring Boot.
 - 📚 Me gusta aprender sobre Frontend y Backend.
-- 💪🏼 Me gustar leer sobre cualquier tema, me gusta el conocimiento.
+- 💪🏼 Me gustar leer sobre cualquier tema, en especial las matemáticas, lenguajes de programación e historia.
 
 ---
 
