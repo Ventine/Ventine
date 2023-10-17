@@ -4,7 +4,7 @@
 
 Soy un desarrollador Full Stack
 
-- 👨‍💻 Actualmente trabajo como desarrollador web usando PHP y Spring Boot.
+- 👨‍💻 Actualmente trabajo como desarrollador web usando Angular y Spring Boot.
 - 📚 Me gusta aprender sobre Frontend y Backend.
 - 💪🏼 Me gustar leer sobre cualquier tema, en especial las matemáticas, lenguajes de programación e historia.
 
