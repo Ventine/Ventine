@@ -2,7 +2,7 @@
 
 ---
 
-Soy un desarrollador Full Stack
+Soy un desarrollador web
 
 - 👨‍💻 Actualmente trabajo como desarrollador web usando Angular y Spring Boot.
 - 📚 Me gusta aprender sobre Frontend y Backend.
