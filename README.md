@@ -11,10 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=700&color=6DB33F&center=true&vCenter=true&width=750&lines=Cloud-Native+Java+Backend;Spring+Boot+Microservices+Architecture;Angular+Enterprise+Frontend;AWS+%7C+Docker+%7C+CI%2FCD;Clean+Architecture+%7C+Scalable+Systems" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vent ine&style=flat-square&color=6DB33F" />
-</p>
-
 ---
 
 ## Perfil profesional
@@ -70,10 +66,3 @@ Trabajo bajo estándares **enterprise**, priorizando **diseño estructural**, **
 - PostgreSQL, SQL Server
 - Modelado relacional y consistencia transaccional
 - Optimización avanzada de consultas y rendimiento
-
----
-
-## Actividad técnica
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vent ine&show_icons=true&theme=dark&hide_border=true&count_private=true" height="_
