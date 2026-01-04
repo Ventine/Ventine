@@ -11,10 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=600&color=6DB33F&center=true&vCenter=true&width=820&lines=Java+Cloud-Native+Backend+Engineer;Spring+Boot+Microservices+%7C+AWS;Angular+Enterprise+Frontend;Docker+%7C+CI%2FCD+%7C+Cloud+Architecture;Scalable+Systems+for+Production+Environments" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vent ine&style=for-the-badge&color=6DB33F" />
-</p>
-
 ---
 
 ## Perfil profesional
