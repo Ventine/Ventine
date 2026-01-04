@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Senior-Oriented Full Stack Developer · Java · Spring Boot · Angular · AWS
+  Full Stack Developer · Java · Spring Boot · Angular · AWS
 </h3>
 
 <p align="center">
