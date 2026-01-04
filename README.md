@@ -26,8 +26,6 @@ Trabajo bajo principios **engineering-first**, priorizando **decisiones técnica
 
 ---
 
-## 🔥 Core Skills 2026 (enfoque mercado)
-
 ### Backend Engineering
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark" />
@@ -74,36 +72,6 @@ Trabajo bajo principios **engineering-first**, priorizando **decisiones técnica
 - Integridad y consistencia transaccional
 
 ---
-
-## 🚀 Engineering Focus (2026)
-
-- Sistemas **cloud-native orientados a microservicios**
-- Arquitecturas preparadas para **alta concurrencia**
-- Automatización end-to-end (build → deploy → monitor)
-- Seguridad integrada desde el diseño
-- Performance y costos como métricas técnicas
-
----
-
-## 📈 Actividad técnica
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vent ine&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vent ine&theme=dark&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vent ine&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-## Principios de ingeniería
-
-- Arquitectura antes que implementación  
-- Escalabilidad antes que conveniencia  
-- Producción antes que teoría  
-- Código como activo estratégico  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:0f2027&height=130&section=footer&animation=fadeIn"/>
