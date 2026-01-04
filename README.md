@@ -1,68 +1,110 @@
-<!-- HERO HEADER -->
+<!-- ===================== HERO SECTION ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e1e,100:6DB33F&height=140&section=header&text=Jhon%20Torres&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:6DB33F&height=180&section=header&text=Jhon%20Torres&fontSize=48&fontColor=ffffff&animation=fadeIn&stroke=6DB33F&strokeWidth=1" />
 </p>
 
 <h3 align="center">
-  Full Stack Developer · Java · Spring Boot · Angular · AWS
+  Full Stack Developer · Cloud-Native Java · AWS · Angular
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=700&color=6DB33F&center=true&vCenter=true&width=750&lines=Cloud-Native+Java+Backend;Spring+Boot+Microservices+Architecture;Angular+Enterprise+Frontend;AWS+%7C+Docker+%7C+CI%2FCD;Clean+Architecture+%7C+Scalable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=600&color=6DB33F&center=true&vCenter=true&width=820&lines=Java+Cloud-Native+Backend+Engineer;Spring+Boot+Microservices+%7C+AWS;Angular+Enterprise+Frontend;Docker+%7C+CI%2FCD+%7C+Cloud+Architecture;Scalable+Systems+for+Production+Environments" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vent ine&style=for-the-badge&color=6DB33F" />
 </p>
 
 ---
 
 ## Perfil profesional
 
-Desarrollador **Full Stack con foco fuerte en Backend Cloud-Native**, especializado en **Java y Spring Boot** para la construcción de **plataformas empresariales escalables, desacopladas y orientadas a microservicios**.  
-Experiencia sólida integrando **frontends Angular**, **bases de datos relacionales** y **despliegues productivos en AWS**, con énfasis en **arquitectura, rendimiento, seguridad y mantenibilidad**.
+Desarrollador **Full Stack con orientación clara a Backend Cloud-Native**, especializado en **Java y Spring Boot** para el diseño de **sistemas distribuidos, escalables y preparados para producción real**.  
+Experiencia integrando **frontends Angular**, **bases de datos relacionales**, **contenedores Docker** y **despliegues en AWS**, con foco en **arquitectura, rendimiento, seguridad y automatización**.
 
-Trabajo bajo estándares **enterprise**, priorizando **diseño estructural**, **automatización**, **observabilidad** y **operación confiable en la nube**.
+Trabajo bajo principios **engineering-first**, priorizando **decisiones técnicas sólidas**, **operabilidad en la nube** y **código sostenible a largo plazo**.
 
 ---
 
-## Stack técnico principal
+## 🔥 Core Skills 2026 (enfoque mercado)
 
-### Backend & Arquitectura
+### Backend Engineering
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark" />
 </p>
 
-- Java moderno (JVM, diseño orientado a dominio)
+- Java moderno (JVM, concurrencia, diseño orientado a dominio)
 - Spring Boot, REST APIs, Microservicios
-- Clean Architecture, separación estricta de capas
-- Escalabilidad horizontal, resiliencia y tolerancia a fallos
+- Clean Architecture, DDD táctico
+- Escalabilidad horizontal y resiliencia
 
 ---
 
-### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js&theme=dark" />
-</p>
-
-- Angular enterprise (arquitecturas modulares)
-- Lazy loading, optimización de bundles
-- Integración frontend–backend por contrato (API-first)
-
----
-
-### Cloud & DevOps
+### Cloud-Native & DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,linux&theme=dark" />
 </p>
 
-- AWS (arquitecturas cloud-native)
+- AWS (arquitecturas altamente disponibles)
 - Docker y estandarización de entornos
-- CI/CD, automatización de despliegues y trazabilidad
+- CI/CD, despliegues automatizados
+- Observabilidad y operación en producción
 
 ---
 
-### Bases de datos
+### Frontend Enterprise
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js&theme=dark" />
+</p>
+
+- Angular modular (enterprise-grade)
+- Lazy loading, performance tuning
+- Integración API-first frontend/backend
+
+---
+
+### Data & Persistence
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
 </p>
 
 - PostgreSQL, SQL Server
-- Modelado relacional y consistencia transaccional
-- Optimización avanzada de consultas y rendimiento
+- Modelado relacional
+- Optimización avanzada de consultas
+- Integridad y consistencia transaccional
+
+---
+
+## 🚀 Engineering Focus (2026)
+
+- Sistemas **cloud-native orientados a microservicios**
+- Arquitecturas preparadas para **alta concurrencia**
+- Automatización end-to-end (build → deploy → monitor)
+- Seguridad integrada desde el diseño
+- Performance y costos como métricas técnicas
+
+---
+
+## 📈 Actividad técnica
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vent ine&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vent ine&theme=dark&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vent ine&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## Principios de ingeniería
+
+- Arquitectura antes que implementación  
+- Escalabilidad antes que conveniencia  
+- Producción antes que teoría  
+- Código como activo estratégico  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:0f2027&height=130&section=footer&animation=fadeIn"/>
+</p>
